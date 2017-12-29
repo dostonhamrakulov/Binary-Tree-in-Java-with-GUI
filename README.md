@@ -10,6 +10,13 @@ The data must be an integer number (That´s the reason we include the file "numb
 // Java 
 ```
 
+
+### IDE
+```[netbeans]
+// Netbeans 
+```
+
+
 ## Author
 **Doston Hamrakulov**
 >*student at Riga Technical University*
@@ -29,3 +36,5 @@ The data must be an integer number (That´s the reason we include the file "numb
 <p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Binary-Tree-in-Java-with-GUI/blob/master/Images/image_6.PNG" /></p>
 
 <p align="center"><img width="80%" src="https://github.com/dostonhamrakulov/Binary-Tree-in-Java-with-GUI/blob/master/Images/image_7.PNG" /></p>
+
+Enjoy it :)
